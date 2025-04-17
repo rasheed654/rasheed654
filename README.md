@@ -17,5 +17,5 @@
 
 
 
-[linkedin]: (https://linkedin.com/in/Josh)
+[linkedin]: www.linkedin.com/in/cleveland-guthrie-10ab1b358
 
